@@ -1,0 +1,49 @@
+.header {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.text1 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 3.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.text2 {
+  text-align: center;
+  font-size: 150%;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card {
+  display: flex;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  width: 500px;
+  height: 650px;
+}
+.roll {
+  width: 150px;
+}
+
+.conteiner2 {
+  display: flex;
+  width: 100%;
+}
+
+.conteiner3 {
+  box-sizing: border-box;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.conteiner4 {
+  margin-left: auto;
+  margin-right: auto;
+}
